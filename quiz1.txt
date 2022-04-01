@@ -1,0 +1,12 @@
+b
+c
+a
+b
+c
+b
+c
+c
+a
+b
+
+SCORE: 6/10
